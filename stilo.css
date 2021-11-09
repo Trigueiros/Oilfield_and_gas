@@ -149,6 +149,8 @@
     top: 30px;
     display:inline-block;
     margin-right: 100px;
+    margin-left: 50px;
+    left: 20px;
     
     
     
@@ -193,7 +195,7 @@
 } .conter {
     width: 100%;
     background-color: rgb(255, 255, 255);
-    align-content: center;
+    align-items: center;
     text-align: center;
     margin: 0%;
     max-height: calc(100%)
