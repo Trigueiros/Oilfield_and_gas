@@ -193,8 +193,8 @@
     width: 100%;
     background-color: rgb(255, 255, 255);
     align-content: center;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 1px;
+    margin-right: 1px;
     max-height: calc(100%)
     
 } .principais:hover img {
@@ -214,7 +214,7 @@
     position: relative;
     top: 30px;
     display:inline-block;
-    margin-right: 100px;
+    margin-right: 60px;
     left: 60px;
 
 } .h2_rodape {
@@ -253,6 +253,8 @@
     height: 35px;
     display: inline-block;
     margin-right: 30px;
+    margin-top: 50px;
+    margin-bottom: 20px;
     position: relative;
     left: 49px;
 }
