@@ -176,7 +176,7 @@
 
 }.rodp{
     width: 100%;
-    background-color: rgb(26, 1, 39);
+    background-color: rgb(53, 53, 53);
     max-height: calc(100%);
     text-align: center;
     
@@ -197,7 +197,7 @@
 
 } .principals{
 
-    background-color: rgb(26, 1, 39);
+    background-color: rgb(53, 53, 53);
     border-radius: 7px;
     height: auto;
     width: 300px;
@@ -214,6 +214,7 @@
     color:rgb(255, 255, 255);
     font: bold 22pt Calibri;
     position: relative;
+    
     
 
 
@@ -235,4 +236,15 @@
 
     color: rgb(218, 255, 9);
     transition: all .1s;
+} .cicones {
+    align-items: center;
+    
+
+} .icones_ {
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    margin-right: 30px;
+    position: relative;
+    left: 50px;
 }
