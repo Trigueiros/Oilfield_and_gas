@@ -12,6 +12,7 @@
    text-align: center;
    padding-left: 90px;
    padding-right: 90px;
+   text-align: center;
    
    
 
@@ -145,7 +146,7 @@
     margin-bottom: 7%;
     position: relative;
     top: 30px;
-    left:calc(100% - 87%);
+    left:calc(100% - 97%);
     display:inline-block;
     margin-right: 100px;
     
@@ -193,8 +194,8 @@
     width: 100%;
     background-color: rgb(255, 255, 255);
     align-content: center;
-    margin-left: 1px;
-    margin-right: 1px;
+    text-align: center;
+    margin: 0%;
     max-height: calc(100%)
     
 } .principais:hover img {
@@ -215,7 +216,7 @@
     top: 30px;
     display:inline-block;
     margin-right: 60px;
-    left: 60px;
+    
 
 } .h2_rodape {
 
