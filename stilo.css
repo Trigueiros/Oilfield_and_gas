@@ -12,6 +12,7 @@
    text-align: center;
    padding-left: 90px;
    padding-right: 90px;
+   text-align: center;
    
    
 
@@ -23,6 +24,7 @@
     background-color: rgb(255, 255, 255);
     text-align: center;
     margin: 0%;
+    display: block;
     
 
 
@@ -145,9 +147,10 @@
     margin-bottom: 7%;
     position: relative;
     top: 30px;
-    left:calc(100% - 87%);
     display:inline-block;
     margin-right: 100px;
+    margin-left: 50px;
+    left: 20px;
     
     
     
@@ -192,9 +195,9 @@
 } .conter {
     width: 100%;
     background-color: rgb(255, 255, 255);
-    align-content: center;
-    margin-left: 1px;
-    margin-right: 1px;
+    align-items: center;
+    text-align: center;
+    margin: 0%;
     max-height: calc(100%)
     
 } .principais:hover img {
@@ -215,7 +218,7 @@
     top: 30px;
     display:inline-block;
     margin-right: 60px;
-    left: 60px;
+    
 
 } .h2_rodape {
 
