@@ -26,6 +26,7 @@
     margin: 0%;
     display: block;
     
+    
 
 
 } .log {
@@ -36,6 +37,7 @@
     min-width: 320px;
     max-width: 100%;
     height: auto;
+    float: inline-start;
     
 
 }  .nav-wrapper {
